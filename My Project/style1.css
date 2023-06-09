@@ -1,0 +1,26 @@
+
+.wrapper img{
+width:0%;
+}
+ 
+ body{
+    margin:0;
+    font-size:18px;
+}
+.wrapper{
+ position:relative;
+ max-width:400px;
+ margin:0 atuo;
+}
+.wrapper img{
+verticle-align:middle;
+}
+.wrapper .img-text{
+position:absolute;
+bottom:0;
+background:rgb(0,0,0);
+background:rgba(0,0,0,0.5);
+color:#ffffff;
+width:100%
+padding:15px;
+}

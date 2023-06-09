@@ -1,0 +1,10 @@
+
+.gallery img{
+    filter:grayscale(100%);
+    transition:ls;
+    }
+    
+    .gallery img:hover{
+    filter:grayscale(0);
+    transform:scale(1.1);
+    }
